@@ -7,6 +7,9 @@ This project demonstrates a real-time AEC visualization system built in Unreal E
 The goal is to simulate a lightweight **digital twin workflow** — enabling users to explore structures, inspect metadata, and interact with BIM elements in real time.
 
 ---
+##IFC Files
+IFC files were sourced form the smaple files found here: https://github.com/buildingSMART/Sample-Test-Files
+It can also be found in the directory "Sources".
 
 ## Key Features
 
