@@ -1,0 +1,103 @@
+Row Name,Name,Type,Material,Volume,Area,Length,Cost
+house_-_outer_wall_-_house_right_front,house - outer wall - house right front,IfcWall,stone_sand-lime,1.269264935,6.346324676,1800,1293
+house_-_outer_wall_-_house_right_back,house - outer wall - house right back,IfcWall,stone_sand-lime,1.785618182,8.928090911,4200,2411
+house_-_outer_wall_-_house_left,house - outer wall - house left,IfcWall,stone_sand-lime,4.230883118,21.15441559,6000,2569
+plumbing_wall,plumbing wall,IfcWall,gypsum_fiber-board_panel,0.1647019533,6.862581387,3800,1135
+floor,floor,IfcSlab,concrete_reinforced_in-situ,6.4375,25.75,250,3926
+house_-_roof_-_slab_left,house - roof - slab left,IfcSlab,composite_element_roof,6.720342848,22.40114283,300,1009
+house_-_roof_-_slab_right,house - roof - slab right,IfcSlab,composite_element_roof,9.363507996,31.21169332,300,1493
+house_-_roof,house - roof,IfcRoof,,,,,1822
+building_element,building element,IfcDuctSegment,metal_steel-galvanized,,,,2126
+house_-_outer_wall_-_house_back,house - outer wall - house back,IfcWall,stone_sand-lime,4.286515369,21.43257684,5200,1619
+house_-_outer_wall_-_house_front,house - outer wall - house front,IfcWall,stone_sand-lime,2.931309308,14.65654654,3800,4556
+house_-_outer_wall_-_house_front_right,house - outer wall - house front right,IfcWall,stone_sand-lime,0.7456913421,3.728456711,1300,1092
+house_-_inner_wall,house - inner wall,IfcWall,stone_sand-lime,3.044574026,15.22287013,3900,1879
+girder_1,girder_1,IfcBeam,wood_spruce_beam,0.054,0.02,2700,2833
+girder_2,girder_2,IfcBeam,wood_spruce_beam,0.116,0.02,5800,4904
+girder|_3,girder|_3,IfcBeam,wood_spruce_beam,0.012,0.02,600,3024
+girder_4,girder_4,IfcBeam,wood_spruce_beam,0.08,0.02,4000,3919
+girder_5,girder_5,IfcBeam,wood_spruce_beam,0.116,0.02,5800,1617
+girder_6,girder_6,IfcBeam,wood_spruce_beam,0.116,0.02,5800,4475
+house_-_roof,house - roof,IfcRoof,,,,,1608
+rail_bridge_-_spandrel_wall,rail bridge - spandrel wall,IfcWall,stone_granite_masonry,,,,3854
+rail_bridge_-_spandrel_wall,rail bridge - spandrel wall,IfcWall,stone_granite_masonry,,,,1937
+rail_bridge_-_spandrel_wall,rail bridge - spandrel wall,IfcWall,stone_granite_masonry,,,,1630
+rail_bridge_-_spandrel_wall,rail bridge - spandrel wall,IfcWall,stone_granite_masonry,,,,2171
+bridge_road_-_approach_slab,bridge road - approach slab,IfcSlab,concrete_reinforced_prefab,1.753413336,8.767066678,200,3702
+bridge_road_-_approach_slab,bridge road - approach slab,IfcSlab,concrete_reinforced_prefab,1.753413336,8.767066678,200,3312
+road_river_bridge_-_bridge_deck,road river bridge - bridge deck,IfcSlab,wood-generic,1.868916672,33.373512,56,3425
+road_river_bridge_-_abutment_support_beam,road river bridge - abutment support beam,IfcBeam,concrete_reinforced_in-situ,0.346112814,,,3844
+road_river_bridge_-_abutment_support_beam,road river bridge - abutment support beam,IfcBeam,concrete_reinforced_in-situ,0.346112814,,,4595
+road_river_bridge_-_main_girder,road river bridge - main girder,IfcBeam,wood-generic,,,,1910
+road_river_bridge_-_main_girder,road river bridge - main girder,IfcBeam,wood-generic,,,,4318
+road_river_bridge_-_main_girder,road river bridge - main girder,IfcBeam,wood-generic,,,,1011
+bridge_road_-_cross_girder,bridge road - cross girder,IfcBeam,wood-generic,0.48,0.12,4000,4640
+bridge_road_-_cross_girder,bridge road - cross girder,IfcBeam,wood-generic,0.48,0.12,4000,1814
+bridge_road_-_cross_girder,bridge road - cross girder,IfcBeam,wood-generic,0.48,0.12,4000,2186
+road_river_bridge_pierstem,road river bridge pierstem,IfcColumn,stone_granite_masonry,4.526915657,,,1961
+road_river_bridge_pierstem,road river bridge pierstem,IfcColumn,stone_granite_masonry,4.526915657,,,2818
+road_river_bridge_pierstem,road river bridge pierstem,IfcColumn,stone_granite_masonry,4.526915657,,,2718
+rail_bridge_-_pierstem,rail bridge - pierstem,IfcColumn,stone_granite_masonry,24.95028117,,,4156
+rail_bridge_-_pierstem,rail bridge - pierstem,IfcColumn,stone_granite_masonry,24.95028117,,,4965
+rail_bridge_-_pierstem,rail bridge - pierstem,IfcColumn,stone_granite_masonry,24.95028117,,,1268
+rail_bridge_-_pierstem,rail bridge - pierstem,IfcColumn,stone_granite_masonry,24.95028117,,,2606
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1091
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3541
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4417
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1846
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4503
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1929
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2153
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2645
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3166
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4571
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3640
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4978
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4953
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3886
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2283
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2849
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2138
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4721
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1051
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3155
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3920
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3515
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2547
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3430
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1875
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1606
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2093
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2394
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4830
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3026
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2606
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2519
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2841
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3730
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1105
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4683
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3985
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1403
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2500
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3536
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4145
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,2830
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4597
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,4335
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3192
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,3264
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1308
+sewer_pipe,sewer pipe,IfcPipeSegment,concrete_reinforced_prefab,,,,1761
+road_river_bridge_-_bridge_deck,road river bridge - bridge deck,IfcSlab,wood-generic,1.868916672,33.373512,56,2761
+bridge_road_-_approach_slab_2,bridge road - approach slab,IfcSlab,concrete_reinforced_prefab,1.753413336,8.767066678,200,3309
+bridge_road_-_approach_slab,bridge road - approach slab,IfcSlab,concrete_reinforced_prefab,1.753413336,8.767066678,200,4630
+bridge_road_railing,bridge_road_railing,IfcBeam,wood_spruce_beam,0.054,0.02,2700,4649
+bridge_road_railing_2,bridge_road_railing,IfcBeam,wood_spruce_beam,0.054,0.02,2700,3219
+rail_bridge_-_spandrel_wall_4,rail bridge - spandrel wall,IfcWall,stone_granite_masonry,6.534133356,15.76706668,6000,1547
+rail_bridge_-_arch_segment_6,rail_bridge_-_arch_segment_6,IfcWall,stone_granite_masonry,1.753413336,8.767066678,2000,2198
+rail_bridge_-_pier_3,rail bridge - pierstem,IfcColumn,stone_granite_masonry,24.95028117,6.534133356,500,1564
+rail_4,rail_track_beam_4,IfcBeam,cast_iron,1.753413336,8.767066678,200,4502
+rail_3,rail_track_beam_3,IfcBeam,cast_iron,1.753413336,8.767066678,200,3471
+ballastbed_2,rail_ballastbed_2,IfcSlab,concrete_reinforced_prefab,1.753413336,8.767066678,200,2115
+road_-_asphalt_surface_course_3,road_-_asphalt_surface_course_3,IfcRoad,asphalt,2.5,5,500,4814
